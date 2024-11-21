@@ -1,0 +1,3 @@
+TARGET_DIR=/backup/folder/
+DAYS=5
+LOG_FILE=/apps/scripts/logs/name.log
